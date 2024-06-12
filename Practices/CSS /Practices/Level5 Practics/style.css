@@ -1,0 +1,56 @@
+.lato-regular {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  *{
+    margin:0,50%;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgba(255, 255, 255, 0.3);
+  }
+  .outer{
+    display:inline-grid;
+    grid-template-rows: repeat(1,1fr);
+    grid-template-columns: repeat(4,1fr);
+    column-gap: 10px;
+  
+    }
+
+.inner{
+  background-color:#F5F5F5;
+    margin: 10px;
+    text-align: left;
+
+}
+ .pet1{
+    /* background-image: url("/Practices/CSS /Practices/Level5 Practics/resource/dog1.jpg");
+    background-repeat: no-repeat; */
+border:2px solid #ff0;
+box-shadow: 4px solid red;
+
+  }
+  .pet2{
+    /* background-image: url("/Practices/CSS /Practices/Level5 Practics/resource/dog2.jpg");
+    background-repeat: no-repeat; */
+    border:2px solid #ff0;
+    box-shadow: 4px solid red;
+  }
+  .pet3{
+    /* background-image: url("/Practices/CSS /Practices/Level5 Practics/resource/cat1.jpg");
+    background-repeat: no-repeat; */
+    border:2px solid #ff0;
+    box-shadow: 4px solid red;
+
+  }
+  .pet4{
+    /* background-image: url("/Practices/CSS /Practices/Level5 Practics/resource/cat2.jpg");
+    background-repeat: no-repeat; */
+    border:2px solid #ff0;
+    box-shadow: 4px solid red;
+  }
+  .fa-thumbs-up{
+    margin:0 50%;
+    font-size: 25px;
+  }

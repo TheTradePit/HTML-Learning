@@ -1,0 +1,36 @@
+p{
+    background-color: aquamarine;
+    color: blue;
+    display: inline;
+    border: 1px solid #000;
+}
+#table1 {
+    display: inline-block;
+    background-color: rgb(211, 204, 204);
+    padding: 0.3em;
+    margin: 20px;
+}
+table ,th,td{
+    border: 1px solid #f00;
+    border-collapse: collapse;
+    word-spacing: 1%;
+    padding: 1vh;
+}
+caption{
+    color: blue;
+}
+#q2,#q3{
+    display: inline-block;
+    height: 335px;
+    width: 250px;
+    background-color: rgb(211, 204, 204);
+    margin: 20px;
+    padding: 0.5em;
+}
+#q2submit{
+    background-color: aqua;
+    margin:0px 5px 0px 5px;
+}
+#q3p{
+    background-color: antiquewhite;
+}
